@@ -1,0 +1,21 @@
+{
+  "name": "@anujtayal/firscopelibrdemo",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/anujtayal-firscopelibrdemo.umd.js",
+  "module": "fesm5/anujtayal-firscopelibrdemo.js",
+  "es2015": "fesm2015/anujtayal-firscopelibrdemo.js",
+  "esm5": "esm5/anujtayal-firscopelibrdemo.js",
+  "esm2015": "esm2015/anujtayal-firscopelibrdemo.js",
+  "fesm5": "fesm5/anujtayal-firscopelibrdemo.js",
+  "fesm2015": "fesm2015/anujtayal-firscopelibrdemo.js",
+  "typings": "anujtayal-firscopelibrdemo.d.ts",
+  "metadata": "anujtayal-firscopelibrdemo.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
